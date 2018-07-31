@@ -1,2 +1,2 @@
 # CRM_SSH
-此项目是Spring、Struts2、Hibernate三大框架的简单整合项目，实现了CRM客户关系管理系统，功能上实现了基础的CRUD操作
+此项目是Spring、Struts2、Hibernate三大框架的整合项目，简单的实现了CRM客户关系管理系统，功能上实现了基础的CRUD操作
